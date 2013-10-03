@@ -1,0 +1,31 @@
+18. Muestra la cadena "Hola Mundo" y devuelve el nil del "puts"
+21. Mediante "\t\n" realiza la tabulación y el salto de línea mientras que con  '\t\n' muestra el texto que se encuentra entre las comillas. Las comillas simples muestran literalmente lo que hay dentro de las comillas y las dobles lo interpretan
+22. Realiza la función como el puts, %q muestra literalmente el contenido de las comillas. Muestra "hello world\\n"
+23. Realiza la función como el puts, %Q interpreta el contenido de las comillas.Muestra "hello world" seguido de un retorno de carro.
+24. "--4--\n--2--\n" Interpreta el contenido
+25."--\#{a}--\n--\#{b}--\n" No interpreta el contenido
+26. - "he"
+    - "o"
+    - "hello"
+27. "hello world"
+28. "..."
+29. "2 2 2"
+30. Crea un array con cada palabra de la frase en una posición de este array
+31. Realiza la misma función que el punto anterior, interpretando el contenido de las llaves
+32. Realiza la misma función que el punto anterior, salvo que en este caso no interpreta el contenido de las llaves.
+33. Un array de 3 posiciones con nil en todas sus posiciones.
+34. Un array de 3 posiciones con 0 en todas sus posiciones.
+35. "[[1, 2], [3, 4]]" Array bidimensional
+36. "[0, 2, 4]"  
+37. ["b"]
+    ["d", "e"]
+    ["a", "b", "c"]
+    ["a"]
+    ["d", "e"]
+38. ["A", "B", "c", "d", "e"]
+    ["A", "B", "C", "D", "E"]
+    [1, 2, 3, "A", "B", "C", "D", "E"]
+    [3, "A", "B", "C", "D", "E"]
+    [3, "A", "B", "C", "D", "Z"]
+    [3, "A", "B", "C", nil] 
+    
